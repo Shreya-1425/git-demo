@@ -1,3 +1,4 @@
 # git-demo
-this is just a demo repository
-author - Shreya Singh
+This is just a demo repository.
+<br>
+Author - Shreya Singh
